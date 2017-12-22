@@ -407,7 +407,7 @@
     <value>Вертикальная синхронизация</value>
   </data>
   <data name="CaptureMouse" xml:space="preserve">
-    <value>Capture mouse</value>
+    <value>Захват курсора</value>
   </data>
   <data name="VideoMode" xml:space="preserve">
     <value>Режим видео</value>
